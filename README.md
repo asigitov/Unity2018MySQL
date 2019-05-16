@@ -3,4 +3,4 @@ This the source code for a tutorial on how to implement a highscore table using 
 
 You can find the tutorial here: 
 
-http://sigitov.de/how-to-work-with-an-sqlite-database-in-a-unity-2018-application/
+https://sigitov.de/implementing-a-highscore-table-using-mysql-in-unity-2018/
